@@ -6,11 +6,27 @@ header {
 	width: 940px;
 }
 
+#topic-list.categories .category{
+    width: 65%;
+}
+
+#topic-list.categories .stats{
+    display:none;
+}
+
 [title="Нові ідеї з моменту вашого останнього візиту"]{
     display: none;
 }
 
-.category-dropdown-menu{
+.category-dropdown-button {
+    display: none !important;
+}
+
+.star .starred {
+    color: #FDBA0E !important;
+}
+
+.category-dropdown-menu {
     display: none;
 }
 
