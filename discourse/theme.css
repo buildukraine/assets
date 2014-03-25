@@ -16,7 +16,7 @@ header {
 
 .title .logo-small{
     vertical-align: middle;
-    padding-top: 12px !important;
+    padding-top: 14px !important;
 }
 
 .extra-info .topic-link{
@@ -62,7 +62,7 @@ header {
 }
 
 [title="Будь які ідеї для котрих тяжко визначити конретну категорію"]{
-        padding-left: 40px !important;
+    padding-left: 40px !important;
     padding-right: 10px !important;
     padding-top: 10px !important;
     padding-bottom: 10px !important;
