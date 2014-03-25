@@ -6,6 +6,36 @@ header {
 	width: 940px;
 }
 
+.topic-link{
+    font-size: 18px;
+}
+
+.extra-info .badge-category{
+    background-position-y: 5px;
+}
+
+.title .logo-small{
+    vertical-align: middle;
+    padding-top: 12px !important;
+}
+
+.extra-info .topic-link{
+    vertical-align: sub;
+}
+
+.extra-info .star {
+    padding-top: 5px;
+}
+
+#topic-title .badge-category{
+    background-position-y: 5px;
+    vertical-align: middle !important;
+}
+
+#topic-title .star{
+    padding-top: 5px;
+}
+
 #topic-list.categories .category{
     width: 65%;
 }
